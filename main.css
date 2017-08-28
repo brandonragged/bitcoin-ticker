@@ -55,6 +55,7 @@ li.buy {
 #ticker {
   width: 90%;
   max-height: 400px;
+  min-width: 300px
   overflow: auto;
   list-style: none;
   font-size: 25pt;
